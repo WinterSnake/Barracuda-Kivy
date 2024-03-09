@@ -1,2 +1,2 @@
 # Barracuda: Kivy Client
-Barracuda is an open source password manager with the server written in Rust. This is a Python client that uses the Kivy GUI framework for cross-platform support.
+[Barracuda](https://github.com/WinterSnake/Barracuda) is an open source password manager with the server written in Rust and a python GUI application using the Kivy framework.
